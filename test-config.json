@@ -1,0 +1,27 @@
+{
+  "seed": 0,
+  "repair": {
+    "n": 4,
+    "ngrams_batch_size": 5,
+    "max_candidate_length": -1,
+    "num_candidates": 5,
+    "edit_distance_cap": 5
+  },
+  "batching": {
+    "initial_positive_capacity": -1,
+    "initial_negative_capacity": -1,
+    "positive_capacity": -1,
+    "negative_capacity": -1,
+    "cell_timeout_seconds": 120
+  },
+  "jev": {
+    "confidence_threshold": 0.5,
+    "timeout_seconds": 15
+  },
+  "limits": {
+    "max_iterations": -1,
+    "max_states": -1,
+    "max_queue_size": -1,
+    "max_rsr_candidates": -1
+  }
+}

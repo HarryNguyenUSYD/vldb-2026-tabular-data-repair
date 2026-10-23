@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "columns": {
+    "age": "Age in years.",
+    "workclass": "Employment sector or worker class.",
+    "fnlwgt": "Census final sampling weight.",
+    "education": "Highest education category.",
+    "education-num": "Numeric education level.",
+    "marital-status": "Marital status category.",
+    "occupation": "Primary occupation category.",
+    "relationship": "Household relationship category.",
+    "race": "Race category.",
+    "sex": "Sex category.",
+    "capital-gain": "Capital gains amount.",
+    "capital-loss": "Capital losses amount.",
+    "hours-per-week": "Usual hours worked per week.",
+    "native-country": "Country of origin.",
+    "income": "Whether annual income exceeds USD 50,000."
+  }
+}

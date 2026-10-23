@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "columns": {
+    "age": "Client age in years.",
+    "job": "Client job category.",
+    "marital": "Client marital status.",
+    "education": "Client education category.",
+    "default": "Whether the client has credit in default.",
+    "balance": "Average yearly account balance in euros.",
+    "housing": "Whether the client has a housing loan.",
+    "loan": "Whether the client has a personal loan.",
+    "contact": "Communication contact type.",
+    "day_of_week": "Day of the month of the last contact.",
+    "month": "Month of the last contact.",
+    "duration": "Last contact duration in seconds.",
+    "campaign": "Contacts made during this campaign.",
+    "pdays": "Days since the client was previously contacted.",
+    "previous": "Contacts made before this campaign.",
+    "poutcome": "Outcome of the previous marketing campaign.",
+    "y": "Whether the client subscribed to a term deposit."
+  }
+}
