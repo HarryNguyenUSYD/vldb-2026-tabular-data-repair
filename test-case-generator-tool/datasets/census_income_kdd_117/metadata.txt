@@ -1,0 +1,48 @@
+UCI ID: 117
+Name: Census-Income (KDD)
+Rows: 199523
+Columns: 42
+
+Column information:
+AAGE: Census-Income (KDD) column AAGE; integer range 0 to 90; distinct=91; missing=0
+ACLSWKR: Census-Income (KDD) column ACLSWKR; closed list with 9 values; distinct=9; missing=0
+ADTINK: Census-Income (KDD) column ADTINK; integer range 0 to 51; distinct=52; missing=0
+ADTOCC: Census-Income (KDD) column ADTOCC; integer range 0 to 46; distinct=47; missing=0
+AHGA: Census-Income (KDD) column AHGA; closed list with 17 values; distinct=17; missing=0
+AHSCOL: Census-Income (KDD) column AHSCOL; closed list with 3 values; distinct=3; missing=0
+AMARITL: Census-Income (KDD) column AMARITL; closed list with 7 values; distinct=7; missing=0
+AMJIND: Census-Income (KDD) column AMJIND; closed list with 24 values; distinct=24; missing=0
+AMJOCC: Census-Income (KDD) column AMJOCC; closed list with 15 values; distinct=15; missing=0
+ARACE: Census-Income (KDD) column ARACE; closed list with 5 values; distinct=5; missing=0
+AREORGN: Census-Income (KDD) column AREORGN; closed list with 10 values; distinct=10; missing=0
+ASEX: Census-Income (KDD) column ASEX; closed list with 2 values; distinct=2; missing=0
+AUNMEM: Census-Income (KDD) column AUNMEM; closed list with 3 values; distinct=3; missing=0
+AUNTYPE: Census-Income (KDD) column AUNTYPE; closed list with 6 values; distinct=6; missing=0
+AWKSTAT: Census-Income (KDD) column AWKSTAT; closed list with 8 values; distinct=8; missing=0
+CAPGAIN: Census-Income (KDD) column CAPGAIN; integer range 0 to 99999; distinct=132; missing=0
+GAPLOSS: Census-Income (KDD) column GAPLOSS; integer range 0 to 4608; distinct=113; missing=0
+DIVVAL: Census-Income (KDD) column DIVVAL; integer range 0 to 99999; distinct=1478; missing=0
+FILESTAT: Census-Income (KDD) column FILESTAT; closed list with 6 values; distinct=6; missing=0
+GRINREG: Census-Income (KDD) column GRINREG; closed list with 6 values; distinct=6; missing=0
+GRINST: Census-Income (KDD) column GRINST; closed list with 50 values; distinct=51; missing=708
+HHDFMX: Census-Income (KDD) column HHDFMX; closed list with 38 values; distinct=38; missing=0
+HHDREL: Census-Income (KDD) column HHDREL; closed list with 8 values; distinct=8; missing=0
+MARSUPWRT: Census-Income (KDD) column MARSUPWRT; real range 37.87 to 18656.3; distinct=99800; missing=0
+MIGMTR1: Census-Income (KDD) column MIGMTR1; closed list with 9 values; distinct=10; missing=99696
+MIGMTR3: Census-Income (KDD) column MIGMTR3; closed list with 8 values; distinct=9; missing=99696
+MIGMTR4: Census-Income (KDD) column MIGMTR4; closed list with 9 values; distinct=10; missing=99696
+MIGSAME: Census-Income (KDD) column MIGSAME; closed list with 3 values; distinct=3; missing=0
+MIGSUN: Census-Income (KDD) column MIGSUN; closed list with 3 values; distinct=4; missing=99696
+NOEMP: Census-Income (KDD) column NOEMP; integer range 0 to 6; distinct=7; missing=0
+PARENT: Census-Income (KDD) column PARENT; closed list with 5 values; distinct=5; missing=0
+PEFNTVTY: Census-Income (KDD) column PEFNTVTY; closed list with 42 values; distinct=43; missing=6713
+PEMNTVTY: Census-Income (KDD) column PEMNTVTY; closed list with 42 values; distinct=43; missing=6119
+PENATVTY: Census-Income (KDD) column PENATVTY; closed list with 42 values; distinct=43; missing=3393
+PRCITSHP: Census-Income (KDD) column PRCITSHP; closed list with 5 values; distinct=5; missing=0
+SEOTR: Census-Income (KDD) column SEOTR; integer range 0 to 2; distinct=3; missing=0
+VETQVA: Census-Income (KDD) column VETQVA; closed list with 3 values; distinct=3; missing=0
+VETYN: Census-Income (KDD) column VETYN; integer range 0 to 2; distinct=3; missing=0
+WKSWORK: Census-Income (KDD) column WKSWORK; integer range 0 to 52; distinct=53; missing=0
+AHRSPAY: Census-Income (KDD) column AHRSPAY; integer range 0 to 9999; distinct=1240; missing=0
+year: Census-Income (KDD) column year; integer range 94 to 95; distinct=2; missing=0
+income: Census-Income (KDD) column income; closed list with 2 values; distinct=2; missing=0

@@ -1,0 +1,51 @@
+UCI ID: 880
+Name: SUPPORT2
+Rows: 9105
+Columns: 45
+
+Column information:
+age: SUPPORT2 column age; real range 18.04199 to 101.84796; distinct=7323; missing=0
+sex: SUPPORT2 column sex; closed list with 2 values; distinct=2; missing=0
+dzgroup: SUPPORT2 column dzgroup; closed list with 8 values; distinct=8; missing=0
+dzclass: SUPPORT2 column dzclass; closed list with 4 values; distinct=4; missing=0
+num.co: SUPPORT2 column num.co; integer range 0 to 9; distinct=10; missing=0
+edu: SUPPORT2 column edu; real range 0.0 to 31.0; distinct=32; missing=1634
+income: SUPPORT2 column income; closed list with 4 values; distinct=5; missing=2982
+scoma: SUPPORT2 column scoma; real range 0.0 to 100.0; distinct=12; missing=1
+charges: SUPPORT2 column charges; real range 1169.0 to 1435423.0; distinct=8502; missing=172
+totcst: SUPPORT2 column totcst; real range 0.0 to 633212.0; distinct=8198; missing=888
+totmcst: SUPPORT2 column totmcst; real range -102.71997 to 710682.0; distinct=5517; missing=3475
+avtisst: SUPPORT2 column avtisst; real range 1.0 to 83.0; distinct=353; missing=82
+race: SUPPORT2 column race; closed list with 5 values; distinct=6; missing=42
+sps: SUPPORT2 column sps; real range 0.1999817 to 99.1875; distinct=605; missing=1
+aps: SUPPORT2 column aps; real range 0.0 to 143.0; distinct=126; missing=1
+surv2m: SUPPORT2 column surv2m; real range 0.0 to 0.969970703; distinct=950; missing=1
+surv6m: SUPPORT2 column surv6m; real range 0.0 to 0.947998047; distinct=937; missing=1
+hday: SUPPORT2 column hday; integer range 1 to 148; distinct=85; missing=0
+diabetes: SUPPORT2 column diabetes; integer range 0 to 1; distinct=2; missing=0
+dementia: SUPPORT2 column dementia; integer range 0 to 1; distinct=2; missing=0
+ca: SUPPORT2 column ca; closed list with 3 values; distinct=3; missing=0
+prg2m: SUPPORT2 column prg2m; real range 0.0 to 1.0; distinct=52; missing=1649
+prg6m: SUPPORT2 column prg6m; real range 0.0 to 1.0; distinct=88; missing=1633
+dnr: SUPPORT2 column dnr; closed list with 3 values; distinct=4; missing=30
+dnrday: SUPPORT2 column dnrday; real range -88.0 to 285.0; distinct=178; missing=30
+meanbp: SUPPORT2 column meanbp; real range 0.0 to 195.0; distinct=165; missing=1
+wblc: SUPPORT2 column wblc; real range 0.0 to 200.0; distinct=500; missing=212
+hrt: SUPPORT2 column hrt; real range 0.0 to 300.0; distinct=187; missing=1
+resp: SUPPORT2 column resp; real range 0.0 to 90.0; distinct=67; missing=1
+temp: SUPPORT2 column temp; real range 31.69922 to 41.69531; distinct=99; missing=1
+pafi: SUPPORT2 column pafi; real range 12.0 to 890.375; distinct=1458; missing=2325
+alb: SUPPORT2 column alb; real range 0.3999634 to 29.0; distinct=61; missing=3372
+bili: SUPPORT2 column bili; real range 0.09999084 to 63.0; distinct=296; missing=2601
+crea: SUPPORT2 column crea; real range 0.09999084 to 21.5; distinct=131; missing=67
+sod: SUPPORT2 column sod; real range 110.0 to 181.0; distinct=61; missing=1
+ph: SUPPORT2 column ph; real range 6.829102 to 7.769531; distinct=78; missing=2284
+glucose: SUPPORT2 column glucose; real range 0.0 to 1092.0; distinct=440; missing=4500
+bun: SUPPORT2 column bun; real range 1.0 to 300.0; distinct=160; missing=4352
+urine: SUPPORT2 column urine; real range 0.0 to 9000.0; distinct=1495; missing=4862
+adlp: SUPPORT2 column adlp; real range 0.0 to 7.0; distinct=9; missing=5641
+adls: SUPPORT2 column adls; real range 0.0 to 7.0; distinct=9; missing=2867
+adlsc: SUPPORT2 column adlsc; real range 0.0 to 7.0732422; distinct=1735; missing=0
+death: SUPPORT2 column death; integer range 0 to 1; distinct=2; missing=0
+hospdead: SUPPORT2 column hospdead; integer range 0 to 1; distinct=2; missing=0
+sfdm2: SUPPORT2 column sfdm2; closed list with 5 values; distinct=6; missing=1400

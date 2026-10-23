@@ -1,0 +1,21 @@
+UCI ID: 20
+Name: Census Income
+Rows: 48842
+Columns: 15
+
+Column information:
+age: Census Income column age; integer range 17 to 90; distinct=74; missing=0
+workclass: Census Income column workclass; closed list with 8 values; distinct=10; missing=963
+fnlwgt: Census Income column fnlwgt; integer range 12285 to 1490400; distinct=28523; missing=0
+education: Census Income column education; closed list with 16 values; distinct=16; missing=0
+education-num: Census Income column education-num; integer range 1 to 16; distinct=16; missing=0
+marital-status: Census Income column marital-status; closed list with 7 values; distinct=7; missing=0
+occupation: Census Income column occupation; closed list with 14 values; distinct=16; missing=966
+relationship: Census Income column relationship; closed list with 6 values; distinct=6; missing=0
+race: Census Income column race; closed list with 5 values; distinct=5; missing=0
+sex: Census Income column sex; closed list with 2 values; distinct=2; missing=0
+capital-gain: Census Income column capital-gain; integer range 0 to 99999; distinct=123; missing=0
+capital-loss: Census Income column capital-loss; integer range 0 to 4356; distinct=99; missing=0
+hours-per-week: Census Income column hours-per-week; integer range 1 to 99; distinct=96; missing=0
+native-country: Census Income column native-country; closed list with 41 values; distinct=43; missing=274
+income: Census Income column income; closed list with 4 values; distinct=4; missing=0

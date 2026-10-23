@@ -1,0 +1,23 @@
+UCI ID: 222
+Name: Bank Marketing
+Rows: 45211
+Columns: 17
+
+Column information:
+age: Bank Marketing column age; integer range 18 to 95; distinct=77; missing=0
+job: Bank Marketing column job; closed list with 11 values; distinct=12; missing=288
+marital: Bank Marketing column marital; closed list with 3 values; distinct=3; missing=0
+education: Bank Marketing column education; closed list with 3 values; distinct=4; missing=1857
+default: Bank Marketing column default; closed list with 2 values; distinct=2; missing=0
+balance: Bank Marketing column balance; integer range -8019 to 102127; distinct=7168; missing=0
+housing: Bank Marketing column housing; closed list with 2 values; distinct=2; missing=0
+loan: Bank Marketing column loan; closed list with 2 values; distinct=2; missing=0
+contact: Bank Marketing column contact; closed list with 2 values; distinct=3; missing=13020
+day_of_week: Bank Marketing column day_of_week; integer range 1 to 31; distinct=31; missing=0
+month: Bank Marketing column month; closed list with 12 values; distinct=12; missing=0
+duration: Bank Marketing column duration; integer range 0 to 4918; distinct=1573; missing=0
+campaign: Bank Marketing column campaign; integer range 1 to 63; distinct=48; missing=0
+pdays: Bank Marketing column pdays; integer range -1 to 871; distinct=559; missing=0
+previous: Bank Marketing column previous; integer range 0 to 275; distinct=41; missing=0
+poutcome: Bank Marketing column poutcome; closed list with 3 values; distinct=4; missing=36959
+y: Bank Marketing column y; closed list with 2 values; distinct=2; missing=0
