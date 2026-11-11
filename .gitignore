@@ -2,11 +2,3 @@ __pycache__/
 *.tmp
 test-results/
 .env
-build/**
-output.*.csv
-error.log
-output.csv
-output.tmp.csv
-telementry.json
-test_output.json
-test-case-generator-tool/datasets/**/*.csv
